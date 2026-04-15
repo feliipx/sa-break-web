@@ -88,7 +88,7 @@ export default function Home() {
           </p>
           <div className="pt-12 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center gap-6">
             <p className="text-sm font-bold tracking-widest text-slate-500">
-              S&A BREAK <span className="text-orange-600">SPA</span>
+              COMERCIALIZADORA SyA BREAK <span className="text-orange-600">SPA</span>
             </p>
             <p className="text-xs text-slate-600 uppercase tracking-widest">
               © 2026 PROTOTIPO EXCLUSIVO PARA CLIENTE

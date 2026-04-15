@@ -9,7 +9,7 @@ export default function Navbar() {
                         <Hammer size={20} />
                     </div>
                     <span className="font-bold text-xl tracking-tight text-industrial-900">
-                        S&A BREAK <span className="text-brand">SPA</span>
+                        COMERCIALIZADORA SyA BREAK <span className="text-brand">SPA</span>
                     </span>
                 </div>
                 <div className="hidden md:flex gap-8 text-sm font-medium text-slate-600">
